@@ -36,7 +36,7 @@
 
             bindings = <
 &kp TAB         &kp EXCL   &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE                &kp AMPERSAND  &kp AT_SIGN       &kp HASH  &kp DOLLAR  &kp PERCENT  &kp BSPC
-&kp LCTRL       &kp EQUAL  &kp GRAVE     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BACKSLASH           &kp LA(Y)      &trans            &trans    &trans      &trans       &trans
+&kp LCTRL       &kp EQUAL  &kp GRAVE     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BACKSLASH           &kp LA(Y)      &kp PRINTSCREEN   &trans    &trans      &trans       &trans
 &kp LEFT_SHIFT  &kp PLUS   &kp TILDE     &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp NON_US_BACKSLASH    &kp LESS_THAN  &kp GREATER_THAN  &trans    &trans      &trans       &kp TILDE
                                          &kp LGUI              &trans                 &kp SPACE               &kp RET        &trans            &kp RALT
             >;
