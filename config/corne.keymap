@@ -38,7 +38,7 @@
 &kp TAB         &kp EXCL   &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE                &kp AMPERSAND  &kp AT_SIGN       &kp HASH  &kp DOLLAR  &kp PERCENT  &kp BSPC
 &kp LCTRL       &kp EQUAL  &kp GRAVE     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BACKSLASH           &kp LA(Y)      &kp PRINTSCREEN   &trans    &trans      &trans       &trans
 &kp LEFT_SHIFT  &kp PLUS   &kp TILDE     &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp NON_US_BACKSLASH    &kp LESS_THAN  &kp GREATER_THAN  &trans    &trans      &trans       &kp TILDE
-                                         &kp LGUI              &trans                 &kp SPACE               &kp RET        &trans            &kp RALT
+                                         &kp LGUI              &trans                 &kp ENTER               &kp SPACE      &trans            &kp RALT
             >;
         };
 
@@ -53,7 +53,7 @@
 &kp TAB     &trans        &trans        &kp DOUBLE_QUOTES  &kp SQT       &trans       &kp MINUS  &kp ASTERISK  &kp CARET   &trans        &trans  &kp BSPC
 &kt ESCAPE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3       &kp NUMBER_4  &kp N5       &kp LEFT   &kp DOWN      &kp UP      &kp RIGHT     &trans  &trans
 &kp LSHFT   &kp NUMBER_6  &kp N7        &kp N8             &kp N9        &kp N0       &trans     &kp QUESTION  &kp KP_DOT  &kp KP_SLASH  &trans  &kp RCTRL
-                                        &kp LGUI           &trans        &kp SPACE    &kp RET    &trans        &kp RALT
+                                        &kp LGUI           &trans        &kp ENTER    &kp SPACE  &trans        &kp RALT
             >;
         };
     };
