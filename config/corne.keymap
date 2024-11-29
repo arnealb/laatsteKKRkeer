@@ -19,15 +19,15 @@
         morph_dot: dot_colon {
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
-            bindings = <&kp DOT>, <&kp COLON>;
+            bindings = <&kp SEMICOLON>, <&kp DOT> 
             mods = <(MOD_LSFT)>;
         };
 
         morph_semicolon: semicolon_slash {
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
-            bindings = <&kp SEMICOLON>, <&kp SLASH>;
-            mods = <(MOD_LSFT)>;
+            bindings = <&kp COLON>, <&kp COLONSLASH>;
+            mods = <(MOD_LSFT)>COLON;
         };
     };
 
