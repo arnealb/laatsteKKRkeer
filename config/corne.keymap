@@ -27,7 +27,7 @@
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
             bindings = <&kp COLON>, <&kp COLONSLASH>;
-            mods = <(MOD_LSFT)>COLON;
+            mods = <(MOD_LSFT)>;
         };
     };
 
