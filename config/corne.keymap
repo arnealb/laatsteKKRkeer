@@ -19,7 +19,7 @@
         morph_dot: dot_colon {
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
-            bindings = <&kp SEMICOLON>, <&kp DOT> 
+            bindings = <&kp SEMICOLON>, <&kp DOT>;
             mods = <(MOD_LSFT)>;
         };
 
